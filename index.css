@@ -1,0 +1,60 @@
+.header{
+    background-color: black;
+    opacity: 70%;
+}
+/*BODY1*/
+.body1{
+    background-color: rgb(57, 192, 95);
+}
+/*BODY1 END*/
+
+/*BODY2*/
+.body2{
+    
+    width: 100%;
+    height: auto;
+    background-color: rgb(57, 192, 95);
+}
+/*BODY2 END*/
+
+/*BODY3*/
+.body3{
+    background-color: rgb(57, 192, 95);
+}
+/*BODY3 END*/
+
+/*BODY4*/
+.body4{
+    background-color: rgb(57, 192, 95);
+    background-image: url(img/body4.jpg);
+}
+/*BODY4 END*/
+
+/*BODY5*/
+.body5{
+    background-color: rgb(57, 192, 95);
+}
+/*BODY5 END*/
+
+/*BODY6*/
+.body6{
+    background-color:#ffff;
+}
+.row{
+    color: #ffff;
+}
+/*BODY6 END*/
+
+/*BODY7*/
+.body7{
+    background-color:rgb(49, 45, 45);
+}
+.body7_box{
+    width: 93%;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: auto;
+    background-color:rgb(49, 45, 45);
+}
+
+/*BODY7 END*/
